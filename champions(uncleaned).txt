@@ -1,0 +1,574 @@
+Bill Russell	11	Boston Celtics	1969	11
+Sam Jones	10	Boston Celtics	1969	10
+John Havlicek	8	Boston Celtics	1976	8
+K.C. Jones	8	Boston Celtics	1966	8
+Tom Heinsohn	8	Boston Celtics	1965	8
+Tom Sanders	8	Boston Celtics	1969	8
+Frank Ramsey	7	Boston Celtics	1964	7
+Jim Loscutoff	7	Boston Celtics	1964	7
+Robert Horry	7	Los Angeles Lakers	2002	3
+Robert Horry	7	San Antonio Spurs	2007	2
+Robert Horry	7	Houston Rockets	1995	2
+Bob Cousy	6	Boston Celtics	1963	6
+Kareem Abdul-Jabbar	6	Los Angeles Lakers	1988	5
+Kareem Abdul-Jabbar	6	Milwaukee Bucks	1971	1
+Michael Jordan	6	Chicago Bulls	1998	6
+Scottie Pippen	6	Chicago Bulls	1998	6
+Dennis Rodman	5	Chicago Bulls	1998	3
+Dennis Rodman	5	Detroit Pistons	1990	2
+Derek Fisher	5	Los Angeles Lakers	2010	5
+Don Nelson	5	Boston Celtics	1976	5
+Kobe Bryant	5	Los Angeles Lakers	2010	5
+Larry Siegfried	5	Boston Celtics	1969	5
+Magic Johnson	5	Los Angeles Lakers	1988	5
+Michael Cooper	5	Los Angeles Lakers	1988	5
+Ron Harper	5	Chicago Bulls	1998	3
+Ron Harper	5	Los Angeles Lakers	2001	2
+Slater Martin	5	Minneapolis Lakers	1954	4
+Slater Martin	5	St. Louis Hawks	1958	1
+Steve Kerr	5	Chicago Bulls	1998	3
+Steve Kerr	5	San Antonio Spurs	2003	2
+Bill Sharman	4	Boston Celtics	1961	4
+Bob Harrison	4	Minneapolis Lakers	1954	4
+Gene Guarilia	4	Boston Celtics	1963	4
+George Mikan	4	Minneapolis Lakers	1954	4
+Horace Grant	4	Chicago Bulls	1993	3
+Horace Grant	4	Los Angeles Lakers	2001	1
+Jamaal Wilkes	4	Los Angeles Lakers	1985	3
+Jamaal Wilkes	4	Golden State Warriors	1975	1
+Jim Pollard	4	Minneapolis Lakers	1954	4
+John Salley	4	Detroit Pistons	1990	2
+John Salley	4	Los Angeles Lakers	2000	1
+John Salley	4	Chicago Bulls	1996	1
+Kurt Rambis	4	Los Angeles Lakers	1988	4
+Pep Saul	4	Minneapolis Lakers	1954	3
+Pep Saul	4	Rochester Royals	1951	1
+Robert Parish	4	Boston Celtics	1986	3
+Robert Parish	4	Chicago Bulls	1997	1
+Shaquille O’Neal	4	Los Angeles Lakers	2002	3
+Shaquille O’Neal	4	Miami Heat	2006	1
+Tim Duncan	4	San Antonio Spurs	2007	4
+Vern Mikkelsen	4	Minneapolis Lakers	1954	4
+Will Perdue	4	Chicago Bulls	1993	3
+Will Perdue	4	San Antonio Spurs	1999	1
+A.C. Green	3	Los Angeles Lakers	2000	3
+B.J. Armstrong	3	Chicago Bulls	1993	3
+Bill Cartwright	3	Chicago Bulls	1993	3
+Bill Wennington	3	Chicago Bulls	1998	3
+Brian Shaw	3	Los Angeles Lakers	2002	3
+Bruce Bowen	3	San Antonio Spurs	2007	3
+Byron Scott	3	Los Angeles Lakers	1988	3
+Clyde Lovellette	3	Boston Celtics	1964	2
+Clyde Lovellette	3	Minneapolis Lakers	1954	1
+Dennis Johnson	3	Boston Celtics	1986	2
+Dennis Johnson	3	Seattle SuperSonics	1979	1
+Devean George	3	Los Angeles Lakers	2002	3
+Dickey Simpkins	3	Chicago Bulls	1998	3
+Gene Conley	3	Boston Celtics	1961	3
+Gerald Henderson	3	Boston Celtics	1984	2
+Gerald Henderson	3	Detroit Pistons	1990	1
+James Edwards	3	Detroit Pistons	1990	2
+James Edwards	3	Chicago Bulls	1996	1
+James Worthy	3	Los Angeles Lakers	1988	3
+Jason Caffey	3	Chicago Bulls	1998	3
+John Paxson	3	Chicago Bulls	1993	3
+Jud Buechler	3	Chicago Bulls	1998	3
+Kevin McHale	3	Boston Celtics	1986	3
+Larry Bird	3	Boston Celtics	1986	3
+Luc Longley	3	Chicago Bulls	1998	3
+Malik Rose	3	San Antonio Spurs	2005	3
+Manu Ginobili	3	San Antonio Spurs	2007	3
+Mario Elie	3	Houston Rockets	1995	2
+Mario Elie	3	San Antonio Spurs	1999	1
+Mitch Kupchak	3	Los Angeles Lakers	1985	2
+Mitch Kupchak	3	Washington Bullets	1978	1
+Paul Silas	3	Boston Celtics	1976	2
+Paul Silas	3	Seattle SuperSonics	1979	1
+Randy Brown	3	Chicago Bulls	1998	3
+Rick Fox	3	Los Angeles Lakers	2002	3
+Sam Cassell	3	Houston Rockets	1995	2
+Sam Cassell	3	Boston Celtics	2008	1
+Scott Williams	3	Chicago Bulls	1993	3
+Stacey King	3	Chicago Bulls	1993	3
+Toni Kukoc	3	Chicago Bulls	1998	3
+Tony Parker	3	San Antonio Spurs	2007	3
+Whitey Skoog	3	Minneapolis Lakers	1954	3
+Willie Naulls	3	Boston Celtics	1966	3
+Adam Morrison	2	Los Angeles Lakers	2010	2
+Andrew Bynum	2	Los Angeles Lakers	2010	2
+Arnie Risen	2	Boston Celtics	1957	1
+Arnie Risen	2	Rochester Royals	1951	1
+Bailey Howell	2	Boston Celtics	1969	2
+Beno Udrih	2	San Antonio Spurs	2007	2
+Bill Bradley	2	New York Knickerbockers	1973	2
+Bill Laimbeer	2	Detroit Pistons	1990	2
+Bill Walton	2	Boston Celtics	1986	1
+Bill Walton	2	Portland Trail Blazers	1977	1
+Billy Thompson	2	Los Angeles Lakers	1988	2
+Bob Dandridge	2	Washington Bullets	1978	1
+Bob Dandridge	2	Milwaukee Bucks	1971	1
+Bob McAdoo	2	Los Angeles Lakers	1985	2
+Brent Barry	2	San Antonio Spurs	2007	2
+Carl Herrera	2	Houston Rockets	1995	2
+Cedric Maxwell	2	Boston Celtics	1984	2
+Charles Johnson	2	Washington Bullets	1978	1
+Charles Johnson	2	Golden State Warriors	1975	1
+Chuck Nevitt	2	Chicago Bulls	1992	1
+Chuck Nevitt	2	Los Angeles Lakers	1985	1
+Cliff Levingston	2	Chicago Bulls	1992	2
+Craig Hodges	2	Chicago Bulls	1992	2
+Danny Ainge	2	Boston Celtics	1986	2
+Dave Cowens	2	Boston Celtics	1976	2
+Dave DeBusschere	2	New York Knickerbockers	1973	2
+David Robinson	2	San Antonio Spurs	2003	2
+Dennis Hopson	2	Chicago Bulls	1992	2
+Devin Brown	2	San Antonio Spurs	2005	2
+Dick Barnett	2	New York Knickerbockers	1973	2
+Didier Ilunga-Mbenga	2	Los Angeles Lakers	2010	2
+Don Chaney	2	Boston Celtics	1974	2
+Dwyane Wade	2	Miami Heat	2012	2
+Earl Cureton	2	Houston Rockets	1994	1
+Earl Cureton	2	Philadelphia 76ers	1983	1
+Greg Kite	2	Boston Celtics	1986	2
+Hakeem Olajuwon	2	Houston Rockets	1995	2
+Howie Schultz	2	Minneapolis Lakers	1953	2
+Isiah Thomas	2	Detroit Pistons	1990	2
+Jack Coleman	2	St. Louis Hawks	1958	1
+Jack Coleman	2	Rochester Royals	1951	1
+Jackie Moore	2	Philadelphia Warriors	1956	1
+Jackie Moore	2	Syracuse Nationals	1955	1
+James Posey	2	Boston Celtics	2008	1
+James Posey	2	Miami Heat	2006	1
+Jim Holstein	2	Minneapolis Lakers	1954	2
+Jo Jo White	2	Boston Celtics	1976	2
+Joe Dumars	2	Detroit Pistons	1990	2
+John Thompson	2	Boston Celtics	1966	2
+Jordan Farmar	2	Los Angeles Lakers	2010	2
+Josh Powell	2	Los Angeles Lakers	2010	2
+Kenny Smith	2	Houston Rockets	1995	2
+Lamar Odom	2	Los Angeles Lakers	2010	2
+Lew Hitch	2	Minneapolis Lakers	1953	2
+Lindsey Hunter	2	Detroit Pistons	2004	1
+Lindsey Hunter	2	Los Angeles Lakers	2002	1
+Lou Tsioropoulos	2	Boston Celtics	1959	2
+Luke Walton	2	Los Angeles Lakers	2010	2
+M.L. Carr	2	Boston Celtics	1984	2
+Mal Graham	2	Boston Celtics	1969	2
+Mark Aguirre	2	Detroit Pistons	1990	2
+Mark Landsberger	2	Los Angeles Lakers	1982	2
+Mark Madsen	2	Los Angeles Lakers	2002	2
+Mel Counts	2	Boston Celtics	1966	2
+Mike McGee	2	Los Angeles Lakers	1985	2
+Mike Penberthy	2	Los Angeles Lakers	2002	2
+Mike Smrek	2	Los Angeles Lakers	1988	2
+Mychal Thompson	2	Los Angeles Lakers	1988	2
+Norm Nixon	2	Los Angeles Lakers	1982	2
+Otis Thorpe	2	Houston Rockets	1995	2
+Pau Gasol	2	Los Angeles Lakers	2010	2
+Ron Bonham	2	Boston Celtics	1966	2
+Sasha Vujacic	2	Los Angeles Lakers	2010	2
+Scott Brooks	2	Houston Rockets	1995	2
+Scott Wedman	2	Boston Celtics	1986	2
+Shannon Brown	2	Los Angeles Lakers	2010	2
+Stanislav Medvedenko	2	Los Angeles Lakers	2002	2
+Steve Kuberski	2	Boston Celtics	1976	2
+Tyronn Lue	2	Los Angeles Lakers	2001	2
+Udonis Haslem	2	Miami Heat	2012	2
+Vernon Maxwell	2	Houston Rockets	1995	2
+Vinnie Johnson	2	Detroit Pistons	1990	2
+Wally Walker	2	Seattle SuperSonics	1979	1
+Wally Walker	2	Portland Trail Blazers	1977	1
+Walt Davis	2	St. Louis Hawks	1958	1
+Walt Davis	2	Philadelphia Warriors	1956	1
+Walt Frazier	2	New York Knickerbockers	1973	2
+Wes Matthews	2	Los Angeles Lakers	1988	2
+Willis Reed	2	New York Knickerbockers	1973	2
+Wilt Chamberlain	2	Los Angeles Lakers	1972	1
+Wilt Chamberlain	2	Philadelphia 76ers	1967	1
+Adrian Branch	1	Los Angeles Lakers	1987	1
+Adrian Caldwell	1	Houston Rockets	1995	1
+Al Butler	1	Boston Celtics	1962	1
+Alonzo Mourning	1	Miami Heat	2006	1
+Andrew Gaze	1	San Antonio Spurs	1999	1
+Andrew Toney	1	Philadelphia 76ers	1983	1
+Andy Phillip	1	Boston Celtics	1957	1
+Anthony Goldwire	1	San Antonio Spurs	2003	1
+Antoine Walker	1	Miami Heat	2006	1
+Antonio Daniels	1	San Antonio Spurs	1999	1
+Arnie Ferrin	1	Minneapolis Lakers	1950	1
+Arnie Johnson	1	Rochester Royals	1951	1
+Art Williams	1	Boston Celtics	1974	1
+Avery Johnson	1	San Antonio Spurs	1999	1
+Ben Wallace	1	Detroit Pistons	2004	1
+Bennie Swain	1	Boston Celtics	1959	1
+Bevo Nordmann	1	Boston Celtics	1965	1
+Bill Bridges	1	Golden State Warriors	1975	1
+Bill Calhoun	1	Rochester Royals	1951	1
+Bill Gabor	1	Syracuse Nationals	1955	1
+Bill Hosket	1	New York Knickerbockers	1970	1
+Bill Melchionni	1	Philadelphia 76ers	1967	1
+Billy Cunningham	1	Philadelphia 76ers	1967	1
+Billy Hassett	1	Minneapolis Lakers	1950	1
+Billy Kenville	1	Syracuse Nationals	1955	1
+Bison Dele	1	Chicago Bulls	1997	1
+Bob Boozer	1	Milwaukee Bucks	1971	1
+Bob Davies	1	Rochester Royals	1951	1
+Bob Greacen	1	Milwaukee Bucks	1971	1
+Bob Gross	1	Portland Trail Blazers	1977	1
+Bob Hansen	1	Chicago Bulls	1992	1
+Bob Pettit	1	St. Louis Hawks	1958	1
+Bob Schafer	1	Philadelphia Warriors	1956	1
+Bob Sura	1	Detroit Pistons	2004	1
+Bob Weiss	1	Philadelphia 76ers	1967	1
+Bobby Jones	1	Philadelphia 76ers	1983	1
+Bobby Wanzer	1	Rochester Royals	1951	1
+Brad Holland	1	Los Angeles Lakers	1980	1
+Brandon Williams	1	San Antonio Spurs	1999	1
+Brendan Haywood	1	Dallas Mavericks	2011	1
+Brian Cardinal	1	Dallas Mavericks	2011	1
+Brian Scalabrine	1	Boston Celtics	2008	1
+Bud Grant	1	Minneapolis Lakers	1950	1
+Butch Beard	1	Golden State Warriors	1975	1
+Butch Lee	1	Los Angeles Lakers	1980	1
+Carl Braun	1	Boston Celtics	1962	1
+Carlos Clark	1	Boston Celtics	1984	1
+Caron Butler	1	Dallas Mavericks	2011	1
+Cazzie Russell	1	New York Knickerbockers	1970	1
+Charles Dudley	1	Golden State Warriors	1975	1
+Charles Jones	1	Houston Rockets	1995	1
+Charlie Scott	1	Boston Celtics	1976	1
+Chauncey Billups	1	Detroit Pistons	2004	1
+Chet Walker	1	Philadelphia 76ers	1967	1
+Chris Bosh	1	Miami Heat	2012	1
+Chris Ford	1	Boston Celtics	1981	1
+Chris Jent	1	Houston Rockets	1994	1
+Chris Mihm	1	Los Angeles Lakers	2009	1
+Chuck Share	1	St. Louis Hawks	1958	1
+Chucky Atkins	1	Detroit Pistons	2004	1
+Chucky Brown	1	Houston Rockets	1995	1
+Clay Johnson	1	Los Angeles Lakers	1982	1
+Clemon Johnson	1	Philadelphia 76ers	1983	1
+Cliff Hagan	1	St. Louis Hawks	1958	1
+Clifford Ray	1	Golden State Warriors	1975	1
+Clint Richardson	1	Philadelphia 76ers	1983	1
+Clyde Drexler	1	Houston Rockets	1995	1
+Clyde Mayes	1	Portland Trail Blazers	1977	1
+Connie Simmons	1	Syracuse Nationals	1955	1
+Corey Brewer	1	Dallas Mavericks	2011	1
+Corey Williams	1	Chicago Bulls	1993	1
+Corky Calhoun	1	Portland Trail Blazers	1977	1
+Corliss Williamson	1	Detroit Pistons	2004	1
+Dan Swartz	1	Boston Celtics	1963	1
+Danny Ferry	1	San Antonio Spurs	2003	1
+Darko Milicic	1	Detroit Pistons	2004	1
+Darrell Walker	1	Chicago Bulls	1993	1
+Darryl Dawkins	1	Detroit Pistons	1989	1
+Darvin Ham	1	Detroit Pistons	2004	1
+Dave Gambee	1	Philadelphia 76ers	1967	1
+Dave Greenwood	1	Detroit Pistons	1990	1
+Dave Stallworth	1	New York Knickerbockers	1970	1
+Dave Twardzik	1	Portland Trail Blazers	1977	1
+David Thirdkill	1	Boston Celtics	1986	1
+David Vaughn	1	Chicago Bulls	1998	1
+Dean Meminger	1	New York Knickerbockers	1973	1
+Dennis Awtrey	1	Seattle SuperSonics	1979	1
+Derek Anderson	1	Miami Heat	2006	1
+Derrek Dickey	1	Golden State Warriors	1975	1
+DeShawn Stevenson	1	Dallas Mavericks	2011	1
+Dick Cunningham	1	Milwaukee Bucks	1971	1
+Dick Farley	1	Syracuse Nationals	1955	1
+Dick Hemric	1	Boston Celtics	1957	1
+Dick Schnittker	1	Minneapolis Lakers	1954	1
+Dick Snyder	1	Seattle SuperSonics	1979	1
+Dion Glover	1	San Antonio Spurs	2005	1
+Dirk Nowitzki	1	Dallas Mavericks	2011	1
+Dolph Schayes	1	Syracuse Nationals	1955	1
+Dominique Jones	1	Dallas Mavericks	2011	1
+Don Carlson	1	Minneapolis Lakers	1950	1
+Don Ford	1	Los Angeles Lakers	1980	1
+Don May	1	New York Knickerbockers	1970	1
+Dorell Wright	1	Miami Heat	2006	1
+Earl Barron	1	Miami Heat	2006	1
+Earl Jones	1	Los Angeles Lakers	1985	1
+Earl Lloyd	1	Syracuse Nationals	1955	1
+Earl Monroe	1	New York Knickerbockers	1973	1
+Ed Macauley	1	St. Louis Hawks	1958	1
+Ed Mikan	1	Rochester Royals	1951	1
+Ed Nealy	1	Chicago Bulls	1993	1
+Ed Searcy	1	Boston Celtics	1976	1
+Eddie House	1	Boston Celtics	2008	1
+Eddie Jordan	1	Los Angeles Lakers	1982	1
+Elden Campbell	1	Detroit Pistons	2004	1
+Elgin Baylor	1	Los Angeles Lakers	1972	1
+Elvin Hayes	1	Washington Bullets	1978	1
+Em Bryant	1	Boston Celtics	1969	1
+Eric Fernsten	1	Boston Celtics	1981	1
+Eric Riley	1	Houston Rockets	1994	1
+Eric Williams	1	San Antonio Spurs	2007	1
+Ernie Beck	1	Philadelphia Warriors	1956	1
+Fabricio Oberto	1	San Antonio Spurs	2007	1
+Fennis Dembo	1	Detroit Pistons	1989	1
+Flynn Robinson	1	Los Angeles Lakers	1972	1
+Francisco Elson	1	San Antonio Spurs	2007	1
+Frank Brickowski	1	Los Angeles Lakers	1987	1
+Frank Kendrick	1	Golden State Warriors	1975	1
+Frank Selvy	1	St. Louis Hawks	1958	1
+Franklin Edwards	1	Philadelphia 76ers	1983	1
+Fred Brown	1	Seattle SuperSonics	1979	1
+Gabe Pruitt	1	Boston Celtics	2008	1
+Gail Goodrich	1	Los Angeles Lakers	1972	1
+Gary Freeman	1	Milwaukee Bucks	1971	1
+Gary Payton	1	Miami Heat	2006	1
+Gary Phillips	1	Boston Celtics	1962	1
+Gene Stump	1	Minneapolis Lakers	1950	1
+George Dempsey	1	Philadelphia Warriors	1956	1
+George Johnson	1	Golden State Warriors	1975	1
+George King	1	Syracuse Nationals	1955	1
+Gerald Fitch	1	Miami Heat	2006	1
+Gerard King	1	San Antonio Spurs	1999	1
+Gerry Ward	1	Boston Celtics	1965	1
+Glen Davis	1	Boston Celtics	2008	1
+Glen Rice	1	Los Angeles Lakers	2000	1
+Glenn McDonald	1	Boston Celtics	1976	1
+Glenn Robinson	1	San Antonio Spurs	2005	1
+Greg Ballard	1	Washington Bullets	1978	1
+Greg Foster	1	Los Angeles Lakers	2001	1
+Greg Smith	1	Milwaukee Bucks	1971	1
+Gus Williams	1	Seattle SuperSonics	1979	1
+Hal Greer	1	Philadelphia 76ers	1967	1
+Hank Finkel	1	Boston Celtics	1974	1
+Happy Hairston	1	Los Angeles Lakers	1972	1
+Harthorne Wingo	1	New York Knickerbockers	1973	1
+Henry Bibby	1	New York Knickerbockers	1973	1
+Herm Gilliam	1	Portland Trail Blazers	1977	1
+Herm Schaefer	1	Minneapolis Lakers	1950	1
+Hubert Davis	1	Detroit Pistons	2004	1
+Ian Mahinmi	1	Dallas Mavericks	2011	1
+Isaiah Rider	1	Los Angeles Lakers	2001	1
+J.J. Anderson	1	Philadelphia 76ers	1983	1
+Jack Foley	1	Boston Celtics	1963	1
+Jack George	1	Philadelphia Warriors	1956	1
+Jack Haley	1	Chicago Bulls	1996	1
+Jack McMahon	1	St. Louis Hawks	1958	1
+Jack Nichols	1	Boston Celtics	1957	1
+Jack Sikma	1	Seattle SuperSonics	1979	1
+Jackie Butler	1	San Antonio Spurs	2007	1
+Jackie Robinson	1	Seattle SuperSonics	1979	1
+Jacque Vaughn	1	San Antonio Spurs	2007	1
+James Jones	1	Miami Heat	2012	1
+James White	1	San Antonio Spurs	2007	1
+Jaren Jackson	1	San Antonio Spurs	1999	1
+Jason Kapono	1	Miami Heat	2006	1
+Jason Kidd	1	Dallas Mavericks	2011	1
+Jason Terry	1	Dallas Mavericks	2011	1
+Jason Williams	1	Miami Heat	2006	1
+Jeff Lamp	1	Los Angeles Lakers	1988	1
+Jeff Mullins	1	Golden State Warriors	1975	1
+Jeff Webb	1	Milwaukee Bucks	1971	1
+Jelani McCoy	1	Los Angeles Lakers	2002	1
+Jerome Anderson	1	Boston Celtics	1976	1
+Jerome Kersey	1	San Antonio Spurs	1999	1
+Jerry Lucas	1	New York Knickerbockers	1973	1
+Jerry Sichting	1	Boston Celtics	1986	1
+Jerry West	1	Los Angeles Lakers	1972	1
+Jim Ard	1	Boston Celtics	1976	1
+Jim Barnes	1	Boston Celtics	1969	1
+Jim Brewer	1	Los Angeles Lakers	1982	1
+Jim Chones	1	Los Angeles Lakers	1980	1
+Jim Cleamons	1	Los Angeles Lakers	1972	1
+Jim Fritsche	1	Minneapolis Lakers	1954	1
+Jim McMillian	1	Los Angeles Lakers	1972	1
+Jim Rowinski	1	Detroit Pistons	1989	1
+Jim Tucker	1	Syracuse Nationals	1955	1
+Jo Jo English	1	Chicago Bulls	1993	1
+Joe Courtney	1	Chicago Bulls	1993	1
+Joe Crispin	1	Los Angeles Lakers	2002	1
+Joe Graboski	1	Philadelphia Warriors	1956	1
+Joe Hassett	1	Seattle SuperSonics	1979	1
+Joe Hutton	1	Minneapolis Lakers	1952	1
+Joe Kleine	1	Chicago Bulls	1998	1
+Joe McNamee	1	Rochester Royals	1951	1
+Joe Pace	1	Washington Bullets	1978	1
+Joel Anthony	1	Miami Heat	2012	1
+John Celestand	1	Los Angeles Lakers	2000	1
+John Gianelli	1	New York Knickerbockers	1973	1
+John Johnson	1	Seattle SuperSonics	1979	1
+John Long	1	Detroit Pistons	1989	1
+John Pilch	1	Minneapolis Lakers	1952	1
+John Richter	1	Boston Celtics	1960	1
+John Trapp	1	Los Angeles Lakers	1972	1
+John Warren	1	New York Knickerbockers	1970	1
+Johnny Davis	1	Portland Trail Blazers	1977	1
+Johnny Jones	1	Boston Celtics	1968	1
+Johnny McCarthy	1	Boston Celtics	1964	1
+Jon McGlocklin	1	Milwaukee Bucks	1971	1
+Jose Barea	1	Dallas Mavericks	2011	1
+Julius Erving	1	Philadelphia 76ers	1983	1
+Juwan Howard	1	Miami Heat	2012	1
+Keith Booth	1	Chicago Bulls	1998	1
+Keith Erickson	1	Los Angeles Lakers	1972	1
+Kendrick Perkins	1	Boston Celtics	2008	1
+Kenny Carr	1	Los Angeles Lakers	1980	1
+Kevin Garnett	1	Boston Celtics	2008	1
+Kevin Grevey	1	Washington Bullets	1978	1
+Kevin McKenna	1	Los Angeles Lakers	1982	1
+Kevin Stacom	1	Boston Celtics	1976	1
+Kevin Willis	1	San Antonio Spurs	2003	1
+Larry Costello	1	Philadelphia 76ers	1967	1
+Larry Hennessy	1	Philadelphia Warriors	1956	1
+Larry Robinson	1	Houston Rockets	1994	1
+Larry Spriggs	1	Los Angeles Lakers	1985	1
+Larry Steele	1	Portland Trail Blazers	1977	1
+Larry Wright	1	Washington Bullets	1978	1
+Lars Hansen	1	Seattle SuperSonics	1979	1
+LeBron James	1	Miami Heat	2012	1
+Leon Powe	1	Boston Celtics	2008	1
+Leroy Ellis	1	Los Angeles Lakers	1972	1
+Linton Johnson	1	San Antonio Spurs	2005	1
+Lionel Hollins	1	Portland Trail Blazers	1977	1
+Lloyd Neal	1	Portland Trail Blazers	1977	1
+Lonnie Shelton	1	Seattle SuperSonics	1979	1
+Lucius Allen	1	Milwaukee Bucks	1971	1
+Luke Jackson	1	Philadelphia 76ers	1967	1
+Luther Rackley	1	New York Knickerbockers	1973	1
+Marc Iavaroni	1	Philadelphia 76ers	1983	1
+Mario Chalmers	1	Miami Heat	2012	1
+Mark McNamara	1	Philadelphia 76ers	1983	1
+Mark Randall	1	Chicago Bulls	1992	1
+Marty Byrnes	1	Los Angeles Lakers	1980	1
+Marv Winkler	1	Milwaukee Bucks	1971	1
+Matt Bonner	1	San Antonio Spurs	2007	1
+Matt Bullard	1	Houston Rockets	1994	1
+Matt Guokas	1	Philadelphia 76ers	1967	1
+Matt Steigenga	1	Chicago Bulls	1997	1
+Matt Walsh	1	Miami Heat	2006	1
+Maurice Cheeks	1	Philadelphia 76ers	1983	1
+Maurice Lucas	1	Portland Trail Blazers	1977	1
+Maury King	1	Boston Celtics	1960	1
+McCoy McLemore	1	Milwaukee Bucks	1971	1
+Med Park	1	St. Louis Hawks	1958	1
+Mehmet Okur	1	Detroit Pistons	2004	1
+Melvin Ely	1	San Antonio Spurs	2007	1
+Mengke Bateer	1	San Antonio Spurs	2003	1
+Michael Doleac	1	Miami Heat	2006	1
+Michael Finley	1	San Antonio Spurs	2007	1
+Micheal Williams	1	Detroit Pistons	1989	1
+Mike James	1	Detroit Pistons	2004	1
+Mike Miller	1	Miami Heat	2012	1
+Mike Riordan	1	New York Knickerbockers	1970	1
+Mike Wilks	1	San Antonio Spurs	2005	1
+Milt Wagner	1	Los Angeles Lakers	1988	1
+Mitch Richmond	1	Los Angeles Lakers	2002	1
+Moses Malone	1	Philadelphia 76ers	1983	1
+Nate Bowman	1	New York Knickerbockers	1970	1
+Nazr Mohammed	1	San Antonio Spurs	2005	1
+Neil Johnston	1	Philadelphia Warriors	1956	1
+Normie Glick	1	Minneapolis Lakers	1950	1
+Norris Cole	1	Miami Heat	2012	1
+Ollie Mack	1	Los Angeles Lakers	1980	1
+Oscar Robertson	1	Milwaukee Bucks	1971	1
+P.J. Brown	1	Boston Celtics	2008	1
+Pace Mannion	1	Detroit Pistons	1989	1
+Pat Riley	1	Los Angeles Lakers	1972	1
+Paul Arizin	1	Philadelphia Warriors	1956	1
+Paul Noel	1	Rochester Royals	1951	1
+Paul Pierce	1	Boston Celtics	2008	1
+Paul Seymour	1	Syracuse Nationals	1955	1
+Paul Walther	1	Minneapolis Lakers	1950	1
+Paul Westphal	1	Boston Celtics	1974	1
+Peja Stojakovic	1	Dallas Mavericks	2011	1
+Pete Chilcutt	1	Houston Rockets	1995	1
+Phil Chenier	1	Washington Bullets	1978	1
+Phil Hankinson	1	Boston Celtics	1974	1
+Phil Jackson	1	New York Knickerbockers	1973	1
+Phil Smith	1	Golden State Warriors	1975	1
+Phil Walker	1	Washington Bullets	1978	1
+Quinn Buckner	1	Boston Celtics	1984	1
+Rajon Rondo	1	Boston Celtics	2008	1
+Ralph Lewis	1	Detroit Pistons	1990	1
+Rasheed Wallace	1	Detroit Pistons	2004	1
+Rasho Nesterovic	1	San Antonio Spurs	2005	1
+Ray Allen	1	Boston Celtics	2008	1
+Ray Tolbert	1	Los Angeles Lakers	1988	1
+Red Holzman	1	Rochester Royals	1951	1
+Red Kerr	1	Syracuse Nationals	1955	1
+Red Morrison	1	St. Louis Hawks	1958	1
+Red Rocha	1	Syracuse Nationals	1955	1
+Reggie Johnson	1	Philadelphia 76ers	1983	1
+Rich Johnson	1	Boston Celtics	1969	1
+Richard Hamilton	1	Detroit Pistons	2004	1
+Richard Petruska	1	Houston Rockets	1994	1
+Rick Barry	1	Golden State Warriors	1975	1
+Rick Carlisle	1	Boston Celtics	1986	1
+Rick Mahorn	1	Detroit Pistons	1989	1
+Rick Robey	1	Boston Celtics	1981	1
+Rick Weitzman	1	Boston Celtics	1968	1
+Ricky Blanton	1	Chicago Bulls	1993	1
+Robin Jones	1	Portland Trail Blazers	1977	1
+Rodney McCray	1	Chicago Bulls	1993	1
+Rodrigue Beaubois	1	Dallas Mavericks	2011	1
+Ron Artest	1	Los Angeles Lakers	2010	1
+Ron Boone	1	Los Angeles Lakers	1980	1
+Ron Watts	1	Boston Celtics	1966	1
+Ronnie Lester	1	Los Angeles Lakers	1985	1
+Ronny Turiaf	1	Miami Heat	2012	1
+Rory Sparrow	1	Chicago Bulls	1992	1
+Russ Schoene	1	Philadelphia 76ers	1983	1
+Rusty LaRue	1	Chicago Bulls	1998	1
+Sam Jacobson	1	Los Angeles Lakers	2000	1
+Sam Vincent	1	Boston Celtics	1986	1
+Samaki Walker	1	Los Angeles Lakers	2002	1
+Sasha Pavlovic	1	Dallas Mavericks	2011	1
+Scot Pollard	1	Boston Celtics	2008	1
+Scott Burrell	1	Chicago Bulls	1998	1
+Scott Hastings	1	Detroit Pistons	1990	1
+Sean Elliott	1	San Antonio Spurs	1999	1
+Sean Marks	1	San Antonio Spurs	2005	1
+Shandon Anderson	1	Miami Heat	2006	1
+Shane Battier	1	Miami Heat	2012	1
+Shawn Marion	1	Dallas Mavericks	2011	1
+Si Green	1	Boston Celtics	1966	1
+Sly Williams	1	Boston Celtics	1986	1
+Speedy Claxton	1	San Antonio Spurs	2003	1
+Spencer Haywood	1	Los Angeles Lakers	1980	1
+Stan Kimbrough	1	Detroit Pistons	1990	1
+Stephen Jackson	1	San Antonio Spurs	2003	1
+Steve Bracey	1	Golden State Warriors	1975	1
+Steve Downing	1	Boston Celtics	1974	1
+Steve Harris	1	Detroit Pistons	1989	1
+Steve Novak	1	Dallas Mavericks	2011	1
+Steve Smith	1	San Antonio Spurs	2003	1
+Sun Yue	1	Los Angeles Lakers	2009	1
+Tayshaun Prince	1	Detroit Pistons	2004	1
+Terrel Harris	1	Miami Heat	2012	1
+Terry Duerod	1	Boston Celtics	1981	1
+Tim Breaux	1	Houston Rockets	1995	1
+Tiny Archibald	1	Boston Celtics	1981	1
+Togo Palazzi	1	Boston Celtics	1957	1
+Tom Boswell	1	Boston Celtics	1976	1
+Tom Gola	1	Philadelphia Warriors	1956	1
+Tom Henderson	1	Washington Bullets	1978	1
+Tom LaGarde	1	Seattle SuperSonics	1979	1
+Tom Riker	1	New York Knickerbockers	1973	1
+Tom Thacker	1	Boston Celtics	1968	1
+Tony Allen	1	Boston Celtics	2008	1
+Tony Campbell	1	Los Angeles Lakers	1988	1
+Tony Jaros	1	Minneapolis Lakers	1950	1
+Tony Massenburg	1	San Antonio Spurs	2005	1
+Tracy Murray	1	Houston Rockets	1995	1
+Travis Knight	1	Los Angeles Lakers	2000	1
+Tremaine Fowlkes	1	Detroit Pistons	2004	1
+Trent Tucker	1	Chicago Bulls	1993	1
+Trevor Ariza	1	Los Angeles Lakers	2009	1
+Tyson Chandler	1	Dallas Mavericks	2011	1
+Wali Jones	1	Philadelphia 76ers	1967	1
+Wally Osterkorn	1	Syracuse Nationals	1955	1
+Wayne Embry	1	Boston Celtics	1968	1
+Wayne Simien	1	Miami Heat	2006	1
+Wes Unseld	1	Washington Bullets	1978	1
+William Bedford	1	Detroit Pistons	1990	1
+Win Wilfong	1	St. Louis Hawks	1958	1
+Woody Sauldsberry	1	Boston Celtics	1966	1
+Worthy Patterson	1	St. Louis Hawks	1958	1
+Zan Tabak	1	Houston Rockets	1995	1
+Zeljko Rebraca	1	Detroit Pistons	2004	1
